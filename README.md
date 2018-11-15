@@ -43,7 +43,7 @@ Installation is Done!
 The only file you need to worry about is the main.cpp, edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script
 
 ```bash
-installation.program
+start.program
 ```
 The first time you run the script the security promt as with the installation will probabli show, just do the same as in **2.1**. 
 
