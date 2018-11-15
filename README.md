@@ -40,17 +40,19 @@ The installer is easy to follow, just do what it asks you to do and you will be 
 When the installer is done you will see this:
 
 
+![Allow](Img/done.png)
 
 
+The installer is done!
 
 ## Usage
 
-The only file you need to worry about is the main.cpp, edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script
+The only file you need to worry about is the main.cpp. Edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script
 
 ```bash
 start.program
 ```
-The first time you run the script the security promt as with the installation will probabli show, just do the same as in **2.1**. 
+The first time you run the script the same security promt as with the installation will probably show, just do the same as in **2.1**. 
 
 The script file will compile and run the project automaticly.
 
@@ -61,4 +63,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
