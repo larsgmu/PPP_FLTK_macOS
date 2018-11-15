@@ -17,6 +17,7 @@ Open the folder an run the following file
 installation.program
 ```
 Press "Ok" on the prompt that comes up. Now open System Preferences -> Security & Privacy, on the lower right side press "Allow".
+[[https://github.com/larsgmu/PPP_FLTK_macOS/master/Img/octocat.png|alt=octocat]]
 
 Now you can reopen the installation.program file, press ok and the installer starts.
 
