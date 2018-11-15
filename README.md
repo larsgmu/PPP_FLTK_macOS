@@ -6,31 +6,48 @@ To make it as simple as possible for students to use the FLTK library this repo 
 
 ## Installation
 
+
+#### Step 1
 Download this repository either by pressing Download ZIP or via git using the following command from terminal:
 
 ```bash
 git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
 ```
+#### Step 2
 Open the folder an run the following file
 
 ```bash
 installation.program
 ```
-Press "Ok" on the prompt that comes up. Now open System Preferences -> Security & Privacy, on the lower right side press "Allow".
-[[https://github.com/larsgmu/PPP_FLTK_macOS/master/Img/octocat.png|alt=octocat]]
+#### Step 2.1
+Now this prompt probabliy will show:
+
+![Allow](Img/allow.png)
+
+Press "Ok". Now open System Preferences -> Security & Privacy, on the lower right side press "Allow".
+
+![Allow](Img/allow2.png)
+
 
 Now you can reopen the installation.program file, press ok and the installer starts.
+
+#### Step 3
+The installer will first ask you to press ENTER, do so. After pressing Enter it asks you to type in your password, do it(you will not see what you type, don't worry about this).
+
+Installation is Done!
 
 
 
 ## Usage
 
-Clone the repository either by pressing "Download ZIP" or by using Git(if you have it installed) in terminal:
+The only file you need to worry about is the main.cpp, edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script
 
 ```bash
-git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
+installation.program
 ```
-The only file you need to worry about is the main.cpp, edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script "start.command". This file will compile and run the project automaticly.
+The first time you run the script the security promt as with the installation will probabli show, just do the same as in **2.1**. 
+
+The script file will compile and run the project automaticly.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
