@@ -17,7 +17,7 @@ git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
 Open the downloaded folder an run the following file
 
 ```bash
-installation.program
+installation.command
 ```
 
 #### Step 2.1
@@ -31,7 +31,7 @@ Open System Preferences -> Security & Privacy, on the lower right side press "Al
 ![Allow](Img/allow2.png)
 
 
-Now you can reopen the __installation.program__ file, press ok and the installer starts.
+Now you can reopen the __installation.command__ file, press ok and the installer starts.
 
 #### Step 3
 The installer is easy to follow, just do what it asks you to do and you will be fine!
@@ -50,7 +50,7 @@ The installer is done!
 The only file you need to worry about is the main.cpp. Edit it as much as you want with any C++ editor og IDE. When you are done save the file, and run the script
 
 ```bash
-start.program
+start.command
 ```
 The first time you run the script the same security promt as with the installation will probably show, just do the same as in **2.1**. 
 
