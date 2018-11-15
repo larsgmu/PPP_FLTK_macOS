@@ -4,18 +4,23 @@ FLTK (pronounced "fulltick") is a cross-platform C++ GUI toolkit for UNIX®/Linu
 
 To make it as simple as possible for students to use the FLTK library this repo was made.
 
-## Installation(Optional, not necessary)
+## Installation
 
-If you want to install FLTK locally you can use Homebrew. Open a new Terminal shell and run the following commands:
-
-```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-You might get asked to write your password, then do it and press Enter. Now simply run the following command to add FLTK to your computer:
+Download this repository either by pressing Download ZIP or via git using the following command from terminal:
 
 ```bash
-brew install fltk
+git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
 ```
+Open the folder an run the following file
+
+```bash
+installation.program
+```
+Press "Ok" on the prompt that comes up. Now open System Preferences -> Security & Privacy, on the lower right side press "Allow".
+
+Now you can reopen the installation.program file, press ok and the installer starts.
+
+
 
 ## Usage
 
