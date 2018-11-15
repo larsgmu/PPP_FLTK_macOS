@@ -14,27 +14,32 @@ Download this repository either by pressing Download ZIP or via git using the fo
 git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
 ```
 #### Step 2
-Open the folder an run the following file
+Open the downloaded folder an run the following file
 
 ```bash
 installation.program
 ```
+
 #### Step 2.1
-Now this prompt probabliy will show:
+Now this prompt will probably show:
 
 ![Allow](Img/allow.png)
 
-Press "Ok". Now open System Preferences -> Security & Privacy, on the lower right side press "Allow".
+Press "Ok".
+Open System Preferences -> Security & Privacy, on the lower right side press "Allow".
 
 ![Allow](Img/allow2.png)
 
 
-Now you can reopen the installation.program file, press ok and the installer starts.
+Now you can reopen the __installation.program__ file, press ok and the installer starts.
 
 #### Step 3
-The installer will first ask you to press ENTER, do so. After pressing Enter it asks you to type in your password, do it(you will not see what you type, don't worry about this).
+The installer is easy to follow, just do what it asks you to do and you will be fine!
+*Notice:* when asked to type in your password, the text you are typing will be invisible - this is normal.
 
-Installation is Done!
+When the installer is done you will see this:
+
+
 
 
 
