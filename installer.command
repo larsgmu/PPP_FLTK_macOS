@@ -54,8 +54,8 @@ echo "                            ";
 echo "                            ";
 Echo
 Echo
-echo -n "All dependencies for FLTK is now installed, you can now run the executable"
-Echo named "start.program"."
+echo "All dependencies for FLTK is now installed, you can now run the executable "
+Echo "named start.command and close this window."
 Echo
 Echo
 
