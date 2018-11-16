@@ -21,7 +21,7 @@ installer.command
 ```
 
 #### Step 2.1
-Now this prompt will probably show:
+Now a prompt very similar to this will probably show:
 
 ![Allow](Img/allow.png)
 
