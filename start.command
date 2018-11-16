@@ -18,7 +18,7 @@ echo "Compiling your application."
 cd "$(dirname "$BASH_SOURCE")"
 cp -a FLTK_1.3.4-2/lib/*.dylib /usr/local/lib/
 cp -a FLTK_1.3.4-2/dependencies/*.dylib /usr/local/lib/
-g++ -w -Wall -std=c++11 Graph_lib/Graph.cpp Graph_lib/Window.cpp Graph_lib/GUI.cpp Graph_lib/Simple_window.cpp main.cpp -L. -L$(pwd)/FLTK_1.3.4-2/lib -lfltk_images -lfltk -lpng -lz -ljpeg -lpthread -framework Cocoa -I. -I$PWD/FLTK_1.3.4-2/includes -o hello_fltk
+g++ -w -Wall -std=c++11 Graph_lib/Graph.cpp Graph_lib/Window.cpp Graph_lib/GUI.cpp Graph_lib/Simple_window.cpp main.cpp -L. -L$(pwd)/FLTK_1.3.4-2/lib -lfltk_images -lfltk -lpng -lz -ljpeg -lpthread -framework Cocoa -I. -I$PWD/FLTK_1.3.4-2/includes -o myProgram
 
 echo
 echo
