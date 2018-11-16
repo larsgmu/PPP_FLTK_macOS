@@ -9,8 +9,8 @@ echo "                                            | |                  ";
 echo "                                            |_|                  ";
 echo 
 echo
-echo "Welcome to NTNU FLTK Assigment Compiler."
-sleep 2
+echo "Welcome to NTNU TDT4102 - FLTK Assigment Compiler."
+sleep 1
 echo "Initiating compile.."
 echo "Compiling your application."
 
