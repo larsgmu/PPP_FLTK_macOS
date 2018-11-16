@@ -17,7 +17,7 @@ git clone https://github.com/larsgmu/PPP_FLTK_macOS.git
 Open the downloaded folder an run the following file
 
 ```bash
-installation.command
+installer.command
 ```
 
 #### Step 2.1
