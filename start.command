@@ -26,4 +26,4 @@ echo "Compile success!"
 Sleep 1
 Echo "Opening your program"
 
-./hello_fltk
+./myProgram
